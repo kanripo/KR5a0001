@@ -1,0 +1,52 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:02:54.795451
+#+TITLE: 靈寶無量度人上品妙經
+#+PROPERTY: DZID  DZ0001
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—1 六十一卷 洞真部本文類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
+#+PROPERTY: ID KR5a0001
+<pb:KR5a0001_HFL_000-001a>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+<pb:KR5a0001_HFL_000-001b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+<pb:KR5a0001_HFL_000-002a>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+<pb:KR5a0001_HFL_000-002b>¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
+¶
