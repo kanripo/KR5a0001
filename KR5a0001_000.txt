@@ -1,8 +1,33 @@
 # -*- mode: mandoku-view -*-
-#+TITLE: 元始無量度人上品妙經
-#+DATE: 2015-08-28 23:19:19
+#+TITLE: 靈寶無量度人上品妙經
+#+DATE: 2015-08-28 23:05:03
+#+PROPERTY:  LASTPB <PB KR5a0001_SJB_061-010410b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS ZTDZ
 #+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶<md:KR5a0001_HFL_061-020b>¶¶¶¶¶¶¶¶¶¶¶
+<md:KR5a0001_HFL_000-001a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5a0001_HFL_000-001b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5a0001_HFL_000-002a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5a0001_HFL_000-002b>¶¶¶¶¶¶¶¶¶¶¶<pb:KR5a0001_SJB_000-010001a>
+<img:image/010001a_1.bmp>
+
+
+
+
+
+
+
+
+
+
+<pb:KR5a0001_SJB_000-010001b>
+<img:image/010001b_1.bmp>
+
+
+
+
+
+
+
+
+
 
 
